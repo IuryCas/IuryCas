@@ -11,6 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IuryCas=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
           
